@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Horse Breeding Program</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      padding: 20px;
+      background-color: #703b09;
+      color: #fff;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    p {
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .content {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      padding: 10px;
+      background-color: #703b09;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Your Name - Horse Breeding Program</h1>
+    <p>Promoting Excellence in Dutch Warmbloods, Holsteiners, and Bosnian Mountain Horses</p>
+  </header>
+
+  <div class="content">
+    <h2>About Me</h2>
+    <p>
+      Born in Sarajevo, I discovered my passion for horses at the age of 12. Despite the challenges in our local horse industry, I've dedicated myself to building a top-tier horse breeding program and training facility in this village—a land I've inherited and cherish deeply.
+    </p>
+    <h2>Our Focus</h2>
+    <p>
+      I aim to breed exceptional Dutch Warmbloods and Holsteiners, striving for excellence in performance and temperament. Additionally, we engage in training our native Bosnian Mountain Horses, blending tradition with modern techniques.
+    </p>
+    <h2>Color Scheme and Vision</h2>
+    <p>
+      Our color scheme embodies the elegance and warmth of our endeavor—white symbolizing purity, warm brown reflecting the earth and stability, complemented by black representing strength and resilience.
+    </p>
+    <h2>Join Us in Our Journey</h2>
+    <p>
+      Be part of our mission to elevate horse breeding and training. Follow our progress, explore our horses, and join our community as we strive for excellence.
+    </p>
+  </div>
+
+  <footer>
+    <p>Contact: email@example.com | Phone: XXX-XXX-XXXX</p>
+  </footer>
+
+</body>
+</html>
